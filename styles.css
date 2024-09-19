@@ -7,3 +7,19 @@ h1 {
     color:darkgray;
     text-align: center;
 }
+
+.about {
+    color:aquamarine;
+}
+
+.skills {
+    color:beige;
+}
+
+.projects {
+    color:chartreuse;
+}
+
+.contact {
+    color:crimson;
+}
